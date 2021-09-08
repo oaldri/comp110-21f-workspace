@@ -10,4 +10,4 @@ i: int = 0
 while i < len(user_string):
     (user_string[i])
     i = i + 1 
-print("count: ") + str(i)
+print("count: ")

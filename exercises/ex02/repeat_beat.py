@@ -11,5 +11,5 @@ if repeat <= 0:
 
 
 while(counter < repeat):
-    print(beat, end=", ")
+    print(beat, )
     counter = counter + 1
