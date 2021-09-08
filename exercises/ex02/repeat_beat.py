@@ -9,7 +9,8 @@ counter: int = 0
 if repeat <= 0:
     print("No beat...")
 
-
+output = ""
 while(counter < repeat):
-    print(beat, )
     counter = counter + 1
+    output = output + beat 
+print((" " + beat) * int(repeat))
