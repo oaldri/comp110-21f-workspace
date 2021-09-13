@@ -1,4 +1,4 @@
-"""Plz work I fucking hate this class so goddamn much why red squiggly line just work."""
+"""exercise 3 part 1."""
 
 __author__ = "730383481"
 
